@@ -1,3 +1,4 @@
+
 import numpy as np
 
 #Using numpy we created an array with 15 random elements
